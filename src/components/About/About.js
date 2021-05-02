@@ -19,13 +19,13 @@ const About = () => {
                                 <img src={pic} class="img-fluid img-resize rounded-circle" alt="" />
                                 <div class="mt-3 p-2 d-flex justify-content-center">
                                     <div class="me-3">
-                                        <a target="_blank" class="btn btn-light" href="https://www.facebook.com/hasan.sami2375"><FontAwesomeIcon icon={faFacebook} size="2x" /></a>
+                                        <a target="_blank" class="btn btn-light" href="https://www.facebook.com/fakhruddin.ahmed.995"><FontAwesomeIcon icon={faFacebook} size="2x" /></a>
                                     </div>
                                     <div class="me-3">
-                                        <a target="_blank" class="btn btn-light" href="https://github.com/hasansami75"><FontAwesomeIcon icon={faGithub} size="2x" /></a>
+                                        <a target="_blank" class="btn btn-light" href="https://github.com/fakhruddin07"><FontAwesomeIcon icon={faGithub} size="2x" /></a>
                                     </div>
                                     <div class="me-3">
-                                        <a target="_blank" class="btn btn-light" href="https://www.linkedin.com/in/mohammad-mehedi-hasan-bhuiyan-0b3753151/"><FontAwesomeIcon icon={faLinkedin} size="2x" /></a>
+                                        <a target="_blank" class="btn btn-light" href="www.linkedin.com/in/fakhruddin-ahmed-2a5885193"><FontAwesomeIcon icon={faLinkedin} size="2x" /></a>
                                     </div>
                                 </div>
                                 <h4>A self-taught software developer with a Bachelor's in Electrical & Electronic Engineering. Besides programming all day, he has a passion for writing about himself in third person.</h4>
