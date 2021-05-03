@@ -18,7 +18,7 @@ const Contact = () => {
     return (
         <>
             <section id="contact">
-                <div className="container bg-dark text-white rounded-3 mb-5">
+                <div className="container bg-danger bg-gradient text-white rounded-3 mb-5">
                     <div className="row">
                         <div className="col-md-12">
                             <h1 class="text-center my-5">Contact</h1>

@@ -8,7 +8,7 @@ import Particles from 'react-particles-js';
 const TopBanner = () => {
     return (
         <div>
-            <section class=" bg-dark text-white">
+            <section class="bg-danger bg-gradient text-transparent">
                 <div className="container-fluid">
                     <div className="row">
                         <div className="col-md-12">
@@ -27,7 +27,7 @@ const TopBanner = () => {
                                     }}
                                 ></Particles>
                                 <div className="text-center main-text">
-                                    <h3>HELLO, I'M <span class="text-danger">FAKHRUDDIN AHMED</span></h3>
+                                    <h3>HELLO, I'M <span class="text-info">FAKHRUDDIN AHMED</span></h3>
                                     <h4>I'm a</h4>
                                     <h1 class="mb-5">
                                         <Typical
