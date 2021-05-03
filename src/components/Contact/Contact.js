@@ -41,7 +41,7 @@ const Contact = () => {
                                     <input type="text" class="form-control" id="exampleInputEmail1" name="message" aria-describedby="emailHelp" />
                                     <div id="emailHelp" class="form-text"></div>
                                 </div>
-                                <p className="text-center"><button type="submit" class="btn btn-primary mb-5">Submit</button></p>
+                                <p className="text-center"><button type="submit" class="btn btn-success mb-5">Submit</button></p>
                             </form>
                         </div>
                     </div>

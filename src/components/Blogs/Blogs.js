@@ -1,5 +1,7 @@
 import React from 'react';
-import chanderHut from '../../images/NOMAN.jpg'
+import b1 from '../../images/b1.jpg';
+import b2 from '../../images/b2.jpg';
+import b3 from '../../images/b3.jpg';
 
 const Blogs = () => {
     return (
@@ -10,28 +12,28 @@ const Blogs = () => {
                     <div className="row">
                         <div className="col-md-4">
                             <div class="card">
-                                <img src={chanderHut} class="card-img-top" alt="..." />
+                                <img src={b1} class="card-img-top" alt="..." />
                                 <div class="card-body text-center">
                                     <h5 class="card-title">The Mistake I Made As a Beginner</h5>
-                                    <a href="https://link.medium.com/fUVNeEtiWfb?fbclid=IwAR2d7284lzlYl1SsyIyaAWoaXsBSD_32dQWYEdF8xzCSFyo8z7fbecxcPSI" class="btn btn-primary mb-3">Read</a>
+                                    <a href="https://link.medium.com/fUVNeEtiWfb?fbclid=IwAR2d7284lzlYl1SsyIyaAWoaXsBSD_32dQWYEdF8xzCSFyo8z7fbecxcPSI" class="btn btn-success mb-3">Read</a>
                                 </div>
                             </div>
                         </div>
                         <div className="col-md-4">
                             <div class="card">
-                                <img src={chanderHut} class="card-img-top img-fluid" alt="..." />
+                                <img src={b2} class="card-img-top img-fluid" alt="..." />
                                 <div class="card-body text-center">
                                     <h5 class="card-title ">How to be a better react Developer</h5>
-                                    <a href="https://link.medium.com/QvXm6nyjWfb?fbclid=IwAR25cHfGs35pkDd5bKOUmO5lCcftuo9Zs9h1vH6duehnK5NtDmrmoKNeLoE" class="btn btn-primary mb-3">Read</a>
+                                    <a href="https://link.medium.com/QvXm6nyjWfb?fbclid=IwAR25cHfGs35pkDd5bKOUmO5lCcftuo9Zs9h1vH6duehnK5NtDmrmoKNeLoE" class="btn btn-success mb-3">Read</a>
                                 </div>
                             </div>
                         </div>
                         <div className="col-md-4">
                             <div class="card">
-                                <img src={chanderHut} class="card-img-top" alt="..." />
+                                <img src={b3} class="card-img-top" alt="..." />
                                 <div class="card-body text-center">
                                     <h5 class="card-title">Learning How to Learn JavaScript</h5>
-                                    <a href="https://link.medium.com/SpSOY0UjWfb?fbclid=IwAR2ZgZDp4KQedYh0s1cqMq7QHeDQP8BnU7oG7XYqrLLdQ47awvmSyv5gRFU" class="btn btn-primary mb-3">Read</a>
+                                    <a href="https://link.medium.com/SpSOY0UjWfb?fbclid=IwAR2ZgZDp4KQedYh0s1cqMq7QHeDQP8BnU7oG7XYqrLLdQ47awvmSyv5gRFU" class="btn btn-success mb-3">Read</a>
                                 </div>
                             </div>
                         </div>

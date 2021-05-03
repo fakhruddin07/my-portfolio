@@ -28,10 +28,10 @@ const About = () => {
                                         <a target="_blank" class="btn btn-light" href="www.linkedin.com/in/fakhruddin-ahmed-2a5885193"><FontAwesomeIcon icon={faLinkedin} size="2x" /></a>
                                     </div>
                                 </div>
-                                <h4>A self-taught software developer with a Bachelor's in Electrical & Electronic Engineering. Besides programming all day, he has a passion for writing about himself in third person.</h4>
+                                <h4>Hi, I'm Fakhruddin Ahmed & I'm a front-end developer. I actually studied in Mathematics but I've an interest in programming and developing. So I've decided last year that I need to learn and explore Coding and programming and developing. I started it and till now continue. My core skill is based on JavaScript and React.js and I love to do most of things using by JS. I have a serious passion for developing. I'm available for any kind of job opportunity that suits my skill and interest.</h4>
                                 <div className="mt-3">
-                                    <a href="#contact"><button class="btn btn-danger me-3">Send Message</button></a>
-                                    <button class="btn btn-danger"><a href={resume} download>Download Resume</a></button>
+                                    <a href="#contact"><button class="btn btn-success me-3">Send Message</button></a>
+                                    <button class="btn btn-success"><a href={resume} download>Download Resume</a></button>
                                 </div>
                             </div>
                         </div>

@@ -27,7 +27,7 @@ const TopBanner = () => {
                                     }}
                                 ></Particles>
                                 <div className="text-center main-text">
-                                    <h3>HELLO, I'M FAKHRUDDIN AHMED</h3>
+                                    <h3>HELLO, I'M <span class="text-danger">FAKHRUDDIN AHMED</span></h3>
                                     <h4>I'm a</h4>
                                     <h1 class="mb-5">
                                         <Typical
@@ -35,16 +35,14 @@ const TopBanner = () => {
                                             wrapper="b"
                                             steps={['Front-End Web Developer',
                                             1000,
-                                            'Programmer',
-                                            1000,
                                             'Learner',
                                             1000]}
 
                                         />
                                     </h1>
                                     <div class="text-center">
-                                        <button class="btn btn-danger me-3"><a href="#contact">CONTACT ME</a></button>
-                                        <button class="btn btn-danger"><a href={resume} download>Download Resume</a></button>
+                                        <button class="btn btn-success me-3"><a href="#contact">CONTACT ME</a></button>
+                                        <button class="btn btn-success"><a href={resume} download>Download Resume</a></button>
                                     </div>
                                 </div>
                             </div>
